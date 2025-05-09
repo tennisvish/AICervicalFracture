@@ -1,4 +1,5 @@
 # AICervicalFracture
+I used data from RSNA 2022 Cervical Spine Fracture Detection
 For training your own model
   collect DCM files and organize them by patient UID
   then place relevant images in that folder
